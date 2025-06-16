@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- Define the appenders -->
+    <Appenders>
+        <!-- Console Appender (logs to the console) -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <!-- Log output format pattern -->
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n" />
+        </Console>
+
+        <!-- File Appender (logs to a file) -->
+        <File name="FileAppender" fileName="logs/app.log">
+            <!-- Log output format pattern -->
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level: %msg%n" />
+            <!-- Keep logs for 7 days and roll over the file -->
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+        </File>
+    </Appenders>
+
+    <!-- Define the root logger -->
+    <Loggers>
+        <!-- Root logger -->
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

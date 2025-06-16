@@ -1,0 +1,112 @@
+2025-03-15 11:58:04 [main] INFO : Before suite executed
+2025-03-15 11:58:04 [main] INFO : Before test executed
+2025-03-15 11:58:04 [main] INFO : Before class executed
+2025-03-15 11:58:04 [main] INFO : Before method executed
+2025-03-15 11:58:04 [main] INFO : executed
+2025-03-15 11:58:04 [main] INFO : After method executed
+2025-03-15 11:58:04 [main] INFO : After class executed
+2025-03-15 11:58:04 [main] INFO : After suite executed
+2025-03-15 12:03:46 [main] INFO : Before suite executed
+2025-03-15 12:03:46 [main] INFO : Before test executed
+2025-03-15 12:03:46 [main] INFO : Before class executed
+2025-03-15 12:03:46 [main] INFO : Before method executed
+2025-03-15 12:03:46 [main] INFO : f executed
+2025-03-15 12:03:46 [main] INFO : After method executed
+2025-03-15 12:03:46 [main] INFO : After class executed
+2025-03-15 12:03:47 [main] INFO : After suite executed
+2025-03-15 12:08:43 [main] INFO : Before suite executed
+2025-03-15 12:08:43 [main] INFO : Before test executed
+2025-03-15 12:08:43 [main] INFO : Before class executed
+2025-03-15 12:08:43 [main] INFO : Before method executed
+2025-03-15 12:08:43 [main] INFO : f executed
+2025-03-15 12:08:43 [main] INFO : After method executed
+2025-03-15 12:08:43 [main] INFO : After class executed
+2025-03-15 12:08:43 [main] INFO : After suite executed
+2025-03-15 12:08:59 [main] INFO : Before suite executed
+2025-03-15 12:08:59 [main] INFO : Before test executed
+2025-03-15 12:08:59 [main] INFO : Before class executed
+2025-03-15 12:08:59 [main] INFO : Before method executed
+2025-03-15 12:08:59 [main] INFO : f executed
+2025-03-15 12:08:59 [main] INFO : After method executed
+2025-03-15 12:08:59 [main] INFO : After class executed
+2025-03-15 12:08:59 [main] INFO : After suite executed
+2025-03-15 12:09:25 [main] INFO : Before suite executed
+2025-03-15 12:09:25 [main] INFO : Before test executed
+2025-03-15 12:09:25 [main] INFO : Before class executed
+2025-03-15 12:09:25 [main] INFO : Before method executed
+2025-03-15 12:09:25 [main] INFO : f executed
+2025-03-15 12:09:25 [main] INFO : After method executed
+2025-03-15 12:09:25 [main] INFO : After class executed
+2025-03-15 12:09:25 [main] INFO : After suite executed
+2025-03-15 12:09:49 [main] INFO : Before suite executed
+2025-03-15 12:09:49 [main] INFO : Before test executed
+2025-03-15 12:09:49 [main] INFO : Before class executed
+2025-03-15 12:09:49 [main] INFO : Before method executed
+2025-03-15 12:09:49 [main] INFO : abc executed
+2025-03-15 12:09:49 [main] INFO : After method executed
+2025-03-15 12:09:49 [main] INFO : After class executed
+2025-03-15 12:09:49 [main] INFO : After suite executed
+2025-03-15 12:11:06 [main] INFO : Before suite executed
+2025-03-15 12:11:06 [main] INFO : Before test executed
+2025-03-15 12:11:06 [main] INFO : Before class executed
+2025-03-15 12:11:06 [main] INFO : Before method executed
+2025-03-15 12:11:06 [main] INFO : abc executed
+2025-03-15 12:11:06 [main] INFO : After method executed
+2025-03-15 12:11:06 [main] INFO : Before method executed
+2025-03-15 12:11:06 [main] INFO : abcd executed
+2025-03-15 12:11:06 [main] INFO : After method executed
+2025-03-15 12:11:06 [main] INFO : After class executed
+2025-03-15 12:11:06 [main] INFO : After suite executed
+2025-03-15 12:12:08 [main] INFO : Before suite executed
+2025-03-15 12:12:08 [main] INFO : Before test executed
+2025-03-15 12:12:08 [main] INFO : Before class executed
+2025-03-15 12:12:08 [main] INFO : Before method executed
+2025-03-15 12:12:08 [main] INFO : abc executed
+2025-03-15 12:12:08 [main] INFO : After method executed
+2025-03-15 12:12:08 [main] INFO : Before method executed
+2025-03-15 12:12:08 [main] INFO : abcd executed
+2025-03-15 12:12:08 [main] INFO : After method executed
+2025-03-15 12:12:08 [main] INFO : After class executed
+2025-03-15 12:12:08 [main] INFO : After suite executed
+2025-03-15 15:16:47 [main] INFO : Before suite executed
+2025-03-15 15:16:47 [main] INFO : Before test executed
+2025-03-15 15:16:47 [main] INFO : Before class executed
+2025-03-15 15:16:47 [main] INFO : Before method executed
+2025-03-15 15:16:47 [main] INFO : abc executed
+2025-03-15 15:16:47 [main] INFO : After method executed
+2025-03-15 15:16:47 [main] INFO : Before method executed
+2025-03-15 15:16:47 [main] INFO : abcd executed
+2025-03-15 15:16:47 [main] INFO : After method executed
+2025-03-15 15:16:47 [main] INFO : After class executed
+2025-03-15 15:16:48 [main] INFO : After suite executed
+2025-03-15 15:18:46 [main] INFO : Before suite executed
+2025-03-15 15:18:46 [main] INFO : Before test executed
+2025-03-15 15:18:46 [main] INFO : Before class executed
+2025-03-15 15:18:46 [main] INFO : Before method executed
+2025-03-15 15:18:46 [main] INFO : abcd executed
+2025-03-15 15:18:46 [main] INFO : After method executed
+2025-03-15 15:18:46 [main] INFO : Before method executed
+2025-03-15 15:18:46 [main] INFO : abc executed
+2025-03-15 15:18:46 [main] INFO : After method executed
+2025-03-15 15:18:46 [main] INFO : After class executed
+2025-03-15 15:18:46 [main] INFO : After suite executed
+2025-03-15 16:47:53 [main] INFO : login executed
+2025-03-15 16:47:53 [main] INFO : signup executed
+2025-03-15 16:48:31 [main] INFO : Bus ticket was booked
+2025-03-15 16:48:31 [main] INFO : Closed
+2025-03-15 16:48:31 [main] INFO : login executed
+2025-03-15 16:48:31 [main] INFO : Ticket was saved
+2025-03-15 16:48:31 [main] INFO : searched for the bus
+2025-03-15 16:48:31 [main] INFO : signup executed
+2025-03-15 16:51:05 [main] INFO : signup executed
+2025-03-15 16:51:05 [main] INFO : login executed
+2025-03-15 16:51:05 [main] INFO : searched for the bus
+2025-03-15 16:51:05 [main] INFO : Bus ticket was booked
+2025-03-15 16:51:05 [main] INFO : Ticket was saved
+2025-03-15 16:51:05 [main] INFO : Closed
+2025-04-07 19:56:23 [main] INFO : signup executed
+2025-04-07 19:56:23 [main] INFO : login executed
+2025-04-07 19:56:23 [main] INFO : searched for the bus
+2025-04-07 19:56:23 [main] INFO : Bus ticket was booked
+2025-04-07 19:56:23 [main] INFO : Ticket was saved
+2025-04-07 19:56:23 [main] INFO : Closed
